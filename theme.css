@@ -1,0 +1,50 @@
+.hot-theme {
+    --primary_color: #FFD700;
+    --secondary_color: #FFEC8B;
+    --accent_color: #FFA500;
+}
+.scattered-clouds-theme {
+    --primary_color: #5B9998;
+    --secondary_color: #E9DFB4;
+    --accent_color: #B87333;
+}
+.shower-rain-theme {
+    --primary_color: #6EE0CB;
+    --secondary_color: #F5F3EC;
+    --accent_color: #9B8F8C;
+}
+.thunderstorm-theme {
+    --primary_color: #3C4C68;
+    --secondary_color: #7B7F80;
+    --accent_color: #D4A5A5;
+}
+.mist-theme {
+    --primary_color: #90C7D1;
+    --secondary_color: #E8E3A2;
+    --accent_color: #7A9EAC;
+}
+.clear-sky-theme{
+    --primary_color: #3BA0E8;
+    --secondary_color: #d3e2ff;
+    --accent_color: #f98c61;
+}
+.rain-theme {
+    --primary_color: #626E96;
+    --secondary_color: #8A97B6;
+    --accent_color: #DDB5CA;
+}
+.snow-theme {
+    --primary_color: #7492C6;
+    --secondary_color: #DAD7D2;
+    --accent_color: #A8DADC;
+}
+.few-clouds-theme {
+    --primary_color: #0C488A;
+    --secondary_color: #517DAC;
+    --accent_color: #FFA500;
+}
+.broken-clouds-theme {
+    --primary_color: #eb89bc;
+    --secondary_color: #F5F3EC;
+    --accent_color: #B57D82;
+}
