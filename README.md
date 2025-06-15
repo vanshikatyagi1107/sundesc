@@ -20,4 +20,4 @@ The app fetches data from a weather API (OpenWeatherMap) when you enter a city n
 ## Getting Started
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/sundesc.git
+   git clone https://github.com/vanshikatyagi1107/sundesc.git
