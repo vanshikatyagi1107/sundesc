@@ -13,6 +13,8 @@ Sundesc is a simple and clean weather website that shows the current weather for
 
 ## How it Works
 The app fetches data from a weather API (OpenWeatherMap) when you enter a city name. It then updates the weather info and adjusts the look and feel of the page depending on the conditions (like a gray background if it’s cloudy, etc.).
+<img width="756" height="690" alt="{541A7D7D-3E00-43DB-B440-CBBD2E419D74}" src="https://github.com/user-attachments/assets/a11ebe93-da11-430c-af78-29c02b0eea99" />
+
 
 ## Tech Used
 - HTML – Structure of the app.
